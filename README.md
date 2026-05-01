@@ -9,3 +9,4 @@ Solve 1 coding problem daily to build consistency and problem-solving skill.
 | 1 | Contains Duplicate | Array | Easy | [LeetCode](https://leetcode.com/problems/contains-duplicate/description/) |
 | 2 |Valid Anagram | Array | Easy | [LeetCode](https://leetcode.com/problems/valid-anagram/) |
 | 3 |Two Sum| Array | Easy | [LeetCode](https://leetcode.com/problems/two-sum/) |
+|  |Majority Element| Array | Easy | [LeetCode](https://leetcode.com/problems/majority-element/) |
