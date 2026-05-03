@@ -25,6 +25,36 @@ var majorityElement = function (nums) {
     return nums[0];
 
 }
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var majorityElement = function(nums) {
+      
+    let candidate,count=0;
+    for(num of nums){
+
+        if(count==0){
+            count=1;
+            candidate=num;
+        }
+        else{
+
+            if(candidate==num){
+                count++;
+
+            }
+            else{
+                count--;
+
+            }
+        }
+    }
+    return candidate;
+    
+};
 console.log(majorityElement([3, 2, 3]))
 // Time Complexity: O(n);
 // Space Complexity: O(n);
+
+// Optimized using the moore voting algorithm 
