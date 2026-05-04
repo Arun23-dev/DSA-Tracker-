@@ -17,3 +17,5 @@ Solve 1 coding problem daily to build consistency and problem-solving skill.
 | 8 |Reverse String|Array| Easy |  [LeetCode](https://leetcode.com/problems/reverse-string/) |) |
 | 8 |Valid Palindrome|Array| Easy |  [LeetCode](https://leetcode.com/problems/valid-palindrome) |) |
 | 8 |Majority ELement II|Array| Easy |  [LeetCode](https://leetcode.com/problems/majority-element-ii) |) |
+| 8 |Valid Palindrome ii|Array| Easy |  [LeetCode](https://leetcode.com/problems/valid-palindrome-ii) |) |
+| 9 |Three Sum |Array| Easy |  [LeetCode](https://leetcode.com/problems/3sum/description/) |) |
