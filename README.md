@@ -16,4 +16,4 @@ Solve 1 coding problem daily to build consistency and problem-solving skill.
 | 7 |Remove Element |Array| Easy |  [LeetCode](https://leetcode.com/problems/remove-element) |) |
 | 8 |Reverse String|Array| Easy |  [LeetCode](https://leetcode.com/problems/reverse-string/) |) |
 | 8 |Valid Palindrome|Array| Easy |  [LeetCode](https://leetcode.com/problems/valid-palindrome) |) |
-|  8 |Majority ELement II|Array| Easy |  [LeetCode](https://leetcode.com/problems/majority-element-ii) |) |
+| 8 |Majority ELement II|Array| Easy |  [LeetCode](https://leetcode.com/problems/majority-element-ii) |) |
